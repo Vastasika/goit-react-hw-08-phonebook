@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.43bbce20.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.8f18b03b.js",
+    "static/js/382.5fbd6a22.chunk.js": "/goit-react-hw-08-phonebook/static/js/382.5fbd6a22.chunk.js",
+    "static/js/139.49bf0d85.chunk.js": "/goit-react-hw-08-phonebook/static/js/139.49bf0d85.chunk.js",
+    "static/js/960.12e3abf4.chunk.js": "/goit-react-hw-08-phonebook/static/js/960.12e3abf4.chunk.js",
+    "static/js/764.d12ec1d2.chunk.js": "/goit-react-hw-08-phonebook/static/js/764.d12ec1d2.chunk.js",
+    "static/js/497.e39b4303.chunk.js": "/goit-react-hw-08-phonebook/static/js/497.e39b4303.chunk.js",
+    "static/js/190.92f10730.chunk.js": "/goit-react-hw-08-phonebook/static/js/190.92f10730.chunk.js",
+    "static/js/252.98c7d6c0.chunk.js": "/goit-react-hw-08-phonebook/static/js/252.98c7d6c0.chunk.js",
+    "static/media/image.png": "/goit-react-hw-08-phonebook/static/media/image.8a6e3eae6a9c26c7d50a.png",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.43bbce20.css.map": "/goit-react-hw-08-phonebook/static/css/main.43bbce20.css.map",
+    "main.8f18b03b.js.map": "/goit-react-hw-08-phonebook/static/js/main.8f18b03b.js.map",
+    "382.5fbd6a22.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/382.5fbd6a22.chunk.js.map",
+    "139.49bf0d85.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/139.49bf0d85.chunk.js.map",
+    "960.12e3abf4.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/960.12e3abf4.chunk.js.map",
+    "764.d12ec1d2.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/764.d12ec1d2.chunk.js.map",
+    "497.e39b4303.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/497.e39b4303.chunk.js.map",
+    "190.92f10730.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/190.92f10730.chunk.js.map",
+    "252.98c7d6c0.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/252.98c7d6c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43bbce20.css",
+    "static/js/main.8f18b03b.js"
+  ]
+}
